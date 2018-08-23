@@ -1,1 +1,2 @@
-pulbic void main(String )
+pulbic void main(String 
+{public }:)
